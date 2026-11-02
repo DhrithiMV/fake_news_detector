@@ -40,11 +40,8 @@ The project also includes:
 
 When launched, the app allows you to paste or type any news headline or paragraph and analyze its credibility in real time.
 
-<img width="683" height="490" alt="Screenshot 2025-10-25 at 17-39-13 Fake News Detector" src="https://github.com/user-attachments/assets/d68c9b02-fe94-48d5-85ce-06b292e38dbb" />
-
 - Prediction: *REAL* or *FAKE*  
 - Probability bar visualization  
-- Adjustable fake-detection threshold  
  
 ---
 
